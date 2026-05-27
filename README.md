@@ -8,4 +8,4 @@ Matrícula/Código: [2330114]
 
 ### Pregunta Práctica:
 Menciona brevemente un comando de la terminal de Linux o Windows que utilices con frecuencia y para qué sirve:
-cd, lo utilizo para poder navegar por varias carpetas.
+cd, lo utilizo para poder navegar o subir por varias carpetas.
